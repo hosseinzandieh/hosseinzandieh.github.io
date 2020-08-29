@@ -87,4 +87,4 @@ VB.Net , VB6
 
 ---
 
-[Arzyabi](/assessment/HZ_CV_CheckList_AR_3983 .pdf)
++[Arzyabi](/assessment/HZ_CV_CheckList_AR_3983 .pdf)

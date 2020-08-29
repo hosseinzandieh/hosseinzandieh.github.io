@@ -88,5 +88,5 @@ VB.Net , VB6
 
 ---
 
-+[Arzyabi](https://github.com/hosseinzandieh/hosseinzandieh.github.io/blob/master/assessment/HZ_CV_CheckList_AR_3983%20.pdf)
+[Arzyabi](https://github.com/hosseinzandieh/hosseinzandieh.github.io/blob/master/assessment/HZ_CV_CheckList_AR_3983%20.pdf)
 

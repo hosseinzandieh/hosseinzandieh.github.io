@@ -7,7 +7,7 @@
 + Birthdate 1995,10,28
 + Bachelor
 + Now i am a Bachelors students in computer Engineering
-+ Iran,Tehran province 
++ Iran,Qom 
 
 ### Skill Highlights
 
